@@ -1,0 +1,11 @@
+/* Збільшуємо контейнер для книг для кращого вигляду */
+#content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.book-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
